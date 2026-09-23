@@ -74,7 +74,7 @@ This project implements a **Next Word Prediction Model** using **Recurrent Neura
 
 ## 🤝 Contributing  
 Pull requests are welcome! For major changes, please open an issue first to discuss what you would like to change.  
-Contributor : Vishwesh Ajitkumar studying at IIT Hyderabad
+Contributor : Raghav Bhatia studying at IIT Hyderabad
 ---
 
 
